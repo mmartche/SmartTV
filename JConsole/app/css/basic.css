@@ -1,0 +1,32 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+.app {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 720px;
+	background-color: #FFF;
+}
+
+.top {
+	width: 1280px;
+	height: 200px;
+	background-color: #DDD;
+}
+
+.midle {
+	width: 1280px;
+	height: 440px;
+}
+
+.bottom {
+	color: #FFF;
+	width: 1280px;
+	height: 80px;
+	background-color: #333;
+}
